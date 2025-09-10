@@ -1,0 +1,39 @@
+name: Build listing images (VRBO)
+
+on:
+  workflow_dispatch:         # allows manual run
+  schedule:
+    - cron: "15 */6 * * *"   # every 6 hours (adjust as needed)
+  push:
+    paths:
+      - scripts/build-images.js
+      - .github/workflows/build.yml
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm i sharp@^0.33 node-fetch@3 csv-parse@^5
+
+      - name: Build images from Google Sheet
+        env:
+          SHEET_ID: "1Igj7ohYqH3TnrESbSQwMSRLMx2tfOqDwmoXEzrNarag"  # <= your ID
+          SHEET_TAB: "VRBO"
+          OUT_DIR: "images"
+        run: node scripts/build-images.js
+
+      - name: Commit outputs
+        run: |
+          git config user.name "img-bot"
+          git config user.email "img-bot@example.com"
+          git add images/
+          git diff --quiet && echo "No changes" || git commit -m "Update processed VRBO images"
+          git push
