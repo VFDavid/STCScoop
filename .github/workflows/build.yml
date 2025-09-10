@@ -1,19 +1,26 @@
 name: Build listing images (VRBO)
 
 on:
-  workflow_dispatch:         # allows manual run
-  schedule:
-    - cron: "15 */6 * * *"   # every 6 hours (adjust as needed)
+  workflow_dispatch:
   push:
+    branches:
+      - Vrbo
     paths:
       - scripts/build-images.js
       - .github/workflows/build.yml
+
+permissions:
+  contents: write  # <-- REQUIRED to push back to the repo
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Vrbo branch
+        uses: actions/checkout@v4
+        with:
+          ref: Vrbo
+          fetch-depth: 0          # <-- needed for rebase/push
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -24,16 +31,44 @@ jobs:
         run: npm i sharp@^0.33 node-fetch@3 csv-parse@^5
 
       - name: Build images from Google Sheet
-        env:
-          SHEET_ID: "1Igj7ohYqH3TnrESbSQwMSRLMx2tfOqDwmoXEzrNarag"  # <= your ID
-          SHEET_TAB: "VRBO"
-          OUT_DIR: "images"
         run: node scripts/build-images.js
 
-      - name: Commit outputs
+      # --- Git commit/push with rebase safety & good logging ---
+      - name: Configure git
         run: |
-          git config user.name "img-bot"
-          git config user.email "img-bot@example.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Show git status before add
+        run: |
+          git status
+          echo "---"
+          git status --porcelain
+
+      - name: Stage images
+        run: |
           git add images/
-          git diff --quiet && echo "No changes" || git commit -m "Update processed VRBO images"
-          git push
+
+      - name: Commit if there are changes
+        run: |
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            echo "DONE_NO_CHANGES" >> $GITHUB_STEP_SUMMARY
+            exit 0
+          else
+            git commit -m "Update processed VRBO images"
+          fi
+
+      - name: Rebase on remote Vrbo (handle non-fast-forward)
+        run: |
+          git fetch origin Vrbo
+          # Try a rebase; if it fails, abort and merge instead.
+          set -e
+          if ! git rebase origin/Vrbo; then
+            git rebase --abort || true
+            git pull --no-rebase origin Vrbo
+          fi
+
+      - name: Push changes to Vrbo
+        run: |
+          git push origin HEAD:Vrbo
