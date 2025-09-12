@@ -6,16 +6,18 @@ import fetch from "node-fetch";
 import { parse } from "csv-parse/sync";
 import sharp from "sharp";
 
-// --- Your Google Sheet details ---
-const SHEET_ID = "1Igj7ohYqH3TnrESbSQwMSRLMx2tfOqDwmoXEzrNarag";  // fixed sheet ID
-const SHEET_TAB = "VRBO";                                        // tab name
-const OUT_DIR = "images";                                        // output folder
+// --- Fixed for your spreadsheet ---
+const SHEET_ID = "1Igj7ohYqH3TnrESbSQwMSRLMx2tfOqDwmoXEzrNarag";
 
-// Public CSV export URL for the VRBO tab
-const csvUrl =
-  `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&sheet=${encodeURIComponent(SHEET_TAB)}`;
+// --- From env (with sensible defaults) ---
+const SHEET_TAB = process.env.SHEET_TAB || "VRBO";
+const OUT_DIR   = process.env.OUT_DIR   || "images/vrbo"; // subfolder to avoid collisions
+const WIDTH     = parseInt(process.env.WIDTH  || (SHEET_TAB === "ETSY" ? "325" : "575"), 10);
+const HEIGHT    = parseInt(process.env.HEIGHT || (SHEET_TAB === "ETSY" ? "575" : "325"), 10);
 
-// Generate a short 16-character SHA-1 hash from a string
+// Public CSV export URL for the tab
+const csvUrl = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&sheet=${encodeURIComponent(SHEET_TAB)}`;
+
 function sha1_16(str) {
   return crypto.createHash("sha1").update(str).digest("hex").slice(0, 16);
 }
@@ -32,43 +34,36 @@ async function main() {
   const csv = await res.text();
   const rows = parse(csv, { columns: true, skip_empty_lines: true });
 
-  // The column header in your sheet
-  const MAIN_COL = "Main Image URL";
+  const MAIN_COL = "Main Image URL"; // header must match exactly
 
   for (const row of rows) {
     const src = (row[MAIN_COL] || "").trim();
     if (!src) continue;
 
-    // Deterministic filename
     const id = sha1_16(src);
     const outPath = path.join(OUT_DIR, `${id}.jpg`);
-
-    // Skip if we already have the processed file
     if (fs.existsSync(outPath)) {
-      console.log("Skip exists:", outPath);
+      console.log(`[${SHEET_TAB}] Skip exists:`, outPath);
       continue;
     }
 
     try {
-      // 2) Download original image
-      const imgRes = await fetch(src, { redirect: "follow" });
+      const imgRes = await fetch(src, { redirect: "follow", headers: { "User-Agent": "img-bot" } });
       if (!imgRes.ok) {
-        console.warn("Image fetch failed:", imgRes.status, src);
+        console.warn(`[${SHEET_TAB}] Fetch failed ${imgRes.status}:`, src);
         continue;
       }
       const buf = Buffer.from(await imgRes.arrayBuffer());
 
-      // 3) Resize + crop to 575×325
       const outBuf = await sharp(buf)
-        .resize(575, 325, { fit: "cover", position: "attention" }) // or "centre"
+        .resize(WIDTH, HEIGHT, { fit: "cover", position: "attention" }) // or "centre"
         .jpeg({ quality: 85 })
         .toBuffer();
 
-      // 4) Save processed file
       fs.writeFileSync(outPath, outBuf);
-      console.log("Wrote", outPath);
+      console.log(`[${SHEET_TAB}] Wrote`, outPath);
     } catch (e) {
-      console.error("Error processing:", src, e.message);
+      console.error(`[${SHEET_TAB}] Error:`, src, e.message);
     }
   }
 }
