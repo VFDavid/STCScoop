@@ -147,9 +147,30 @@
     "id": "31a780b4c11ed971",
     "src": "https://i.etsystatic.com/39503825/r/il/a1c007/4498762730/il_1140xN.4498762730_s5ia.jpg",
     "file": "images/etsy/31a780b4c11ed971.jpg",
+    "status": "exists"
+  },
+  {
+    "id": "a07d302ee792b77a",
+    "src": "https://i.etsystatic.com/16498309/r/il/e6d3b0/3537005857/il_1140xN.3537005857_syd9.jpg",
+    "file": "images/etsy/a07d302ee792b77a.jpg",
     "status": "written"
   },
   {
-    "status": "skip-no-src"
+    "id": "4b15822ea0472760",
+    "src": "https://www.etsy.com/listing/1613595697/cribbage-board?ref=shop_home_feat_3&frs=1&sts=1&logging_key=a05d5a9a1504f8ae14a3501b3fe7976018e9d6ae%3A1613595697",
+    "file": "images/etsy/4b15822ea0472760.jpg",
+    "status": "error: Image fetch failed: HTTP 403"
+  },
+  {
+    "id": "fe76e732e05e2427",
+    "src": "https://i.etsystatic.com/15809063/r/il/9c1fc6/6027954431/il_1140xN.6027954431_638k.jpg",
+    "file": "images/etsy/fe76e732e05e2427.jpg",
+    "status": "written"
+  },
+  {
+    "id": "3ca9584a7bb8dfd7",
+    "src": "https://i.etsystatic.com/37315546/r/il/74c463/4162203991/il_1140xN.4162203991_5851.jpg",
+    "file": "images/etsy/3ca9584a7bb8dfd7.jpg",
+    "status": "written"
   }
 ]
