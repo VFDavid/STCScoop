@@ -1,26 +1,39 @@
-name: Build listing images (VRBO)
+name: Build listing images (VRBO + ETSY)
 
 on:
   workflow_dispatch:
   push:
-    branches:
-      - Vrbo
+    branches: [ Vrbo ]
     paths:
       - scripts/build-images.js
       - .github/workflows/build.yml
 
 permissions:
-  contents: write  # <-- REQUIRED to push back to the repo
+  contents: write
 
 jobs:
-  build:
+  build-both:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        include:
+          - name: VRBO
+            SHEET_TAB: "VRBO"
+            OUT_DIR: "images/vrbo"
+            WIDTH: "575"
+            HEIGHT: "325"
+          - name: ETSY
+            SHEET_TAB: "ETSY"
+            OUT_DIR: "images/etsy"
+            WIDTH: "325"
+            HEIGHT: "575"
+
     steps:
       - name: Checkout Vrbo branch
         uses: actions/checkout@v4
         with:
           ref: Vrbo
-          fetch-depth: 0          # <-- needed for rebase/push
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -30,45 +43,38 @@ jobs:
       - name: Install dependencies
         run: npm i sharp@^0.33 node-fetch@3 csv-parse@^5
 
-      - name: Build images from Google Sheet
+      - name: Build images for ${{ matrix.name }}
+        env:
+          SHEET_TAB: ${{ matrix.SHEET_TAB }}
+          OUT_DIR: ${{ matrix.OUT_DIR }}
+          WIDTH: ${{ matrix.WIDTH }}
+          HEIGHT: ${{ matrix.HEIGHT }}
         run: node scripts/build-images.js
 
-      # --- Git commit/push with rebase safety & good logging ---
       - name: Configure git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Show git status before add
-        run: |
-          git status
-          echo "---"
-          git status --porcelain
+      - name: Stage outputs
+        run: git add images/
 
-      - name: Stage images
-        run: |
-          git add images/
-
-      - name: Commit if there are changes
+      - name: Commit if changes
         run: |
           if git diff --cached --quiet; then
             echo "No changes to commit."
-            echo "DONE_NO_CHANGES" >> $GITHUB_STEP_SUMMARY
-            exit 0
           else
-            git commit -m "Update processed VRBO images"
+            git commit -m "Update processed images for ${{ matrix.name }}"
           fi
 
-      - name: Rebase on remote Vrbo (handle non-fast-forward)
+      - name: Rebase on remote Vrbo
         run: |
           git fetch origin Vrbo
-          # Try a rebase; if it fails, abort and merge instead.
           set -e
           if ! git rebase origin/Vrbo; then
             git rebase --abort || true
             git pull --no-rebase origin Vrbo
           fi
 
-      - name: Push changes to Vrbo
-        run: |
-          git push origin HEAD:Vrbo
+      - name: Push changes
+        run: git push origin HEAD:Vrbo
