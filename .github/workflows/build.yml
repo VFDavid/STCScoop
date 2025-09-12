@@ -25,7 +25,7 @@ jobs:
           - name: ETSY
             SHEET_TAB: "ETSY"
             OUT_DIR: "images/etsy"
-            WIDTH: "325"
+            WIDTH: "575"
             HEIGHT: "575"
 
     steps:
