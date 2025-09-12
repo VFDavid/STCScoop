@@ -103,7 +103,7 @@ async function main() {
     try {
       const buf = await fetchImageBuffer(src);
       const outBuf = await sharp(buf)
-        .resize(WIDTH, HEIGHT, { fit: "cover", position: "attention" }) // or "centre"
+        .resize(WIDTH, HEIGHT, { fit: "cover", position: "centre" }) // or "attention"
         .jpeg({ quality: 85 })
         .toBuffer();
 
