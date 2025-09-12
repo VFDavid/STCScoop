@@ -196,5 +196,8 @@
     "src": "https://i.etsystatic.com/52744871/r/il/4ce7e5/6432259860/il_1140xN.6432259860_2p2z.jpg",
     "file": "images/etsy/c902ca882dcbdc2c.jpg",
     "status": "written"
+  },
+  {
+    "status": "skip-no-src"
   }
 ]
