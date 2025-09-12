@@ -1,4 +1,4 @@
-name: Build listing images (VRBO + ETSY)
+name: Build listing images (VRBO + ETSY) — robust
 
 on:
   workflow_dispatch:
@@ -22,11 +22,15 @@ jobs:
             OUT_DIR: "images/vrbo"
             WIDTH: "575"
             HEIGHT: "325"
+            FORCE_REBUILD: "0"
           - name: ETSY
             SHEET_TAB: "ETSY"
             OUT_DIR: "images/etsy"
+            # 👇 set both equal if you want 1:1, e.g. 575/575
             WIDTH: "575"
             HEIGHT: "575"
+            # 👇 one-time rebuild of old files to new size
+            FORCE_REBUILD: "1"
 
     steps:
       - name: Checkout Vrbo branch
@@ -49,6 +53,7 @@ jobs:
           OUT_DIR: ${{ matrix.OUT_DIR }}
           WIDTH: ${{ matrix.WIDTH }}
           HEIGHT: ${{ matrix.HEIGHT }}
+          FORCE_REBUILD: ${{ matrix.FORCE_REBUILD }}
         run: node scripts/build-images.js
 
       - name: Configure git
