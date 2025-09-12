@@ -13,7 +13,7 @@ const SHEET_ID = "1Igj7ohYqH3TnrESbSQwMSRLMx2tfOqDwmoXEzrNarag";
 const SHEET_TAB = process.env.SHEET_TAB || "VRBO";
 const OUT_DIR   = process.env.OUT_DIR   || (SHEET_TAB === "ETSY" ? "images/etsy" : "images/vrbo");
 const WIDTH     = parseInt(process.env.WIDTH  || (SHEET_TAB === "ETSY" ? "325" : "575"), 10);
-const HEIGHT    = parseInt(process.env.HEIGHT || (SHEET_TAB === "ETSY" ? "575" : "325"), 10);
+const HEIGHT    = parseInt(process.env.HEIGHT || (SHEET_TAB === "ETSY" ? "575" : "575"), 10);
 
 // Header mapping per tab (this was the issue)
 const SOURCE_HEADER_BY_TAB = {
