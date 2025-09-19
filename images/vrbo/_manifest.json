@@ -60,10 +60,10 @@
     "status": "exists-correct"
   },
   {
-    "id": "4649ae22441e5c52",
-    "src": "https://media.vrbo.com/lodging/71000000/70880000/70871000/70870927/85563a91.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/4649ae22441e5c52.jpg",
-    "status": "exists-correct"
+    "id": "0551cad89ff8393d",
+    "src": "https://media.vrbo.com/lodging/71000000/70880000/70871000/70870927/w1719h985x0y0-5a5a55be.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/0551cad89ff8393d.jpg",
+    "status": "written"
   },
   {
     "id": "849d9074fe97a0a7",
@@ -72,16 +72,16 @@
     "status": "exists-correct"
   },
   {
-    "id": "0764efe3f81161d7",
-    "src": "https://media.vrbo.com/lodging/112000000/111260000/111253800/111253758/51f585f9.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/0764efe3f81161d7.jpg",
-    "status": "exists-correct"
+    "id": "21d38f28bf0b7ead",
+    "src": "https://media.vrbo.com/lodging/112000000/111260000/111253800/111253758/977022b7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/21d38f28bf0b7ead.jpg",
+    "status": "written"
   },
   {
-    "id": "8e408c6050f6c6de",
-    "src": "https://media.vrbo.com/lodging/107000000/106360000/106353200/106353120/29133089.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/8e408c6050f6c6de.jpg",
-    "status": "exists-correct"
+    "id": "a5ca11801d21542e",
+    "src": "https://media.vrbo.com/lodging/107000000/106360000/106353200/106353120/2a114c34.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/a5ca11801d21542e.jpg",
+    "status": "written"
   },
   {
     "id": "af9b53e7e3f7fd5b",
@@ -96,10 +96,10 @@
     "status": "exists-correct"
   },
   {
-    "id": "6e6393436efcdae6",
-    "src": "https://media.vrbo.com/lodging/106000000/105380000/105372000/105371916/1bbbf6da.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/6e6393436efcdae6.jpg",
-    "status": "exists-correct"
+    "id": "462176d198b9c6c0",
+    "src": "https://media.vrbo.com/lodging/106000000/105380000/105372000/105371916/300b294a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/462176d198b9c6c0.jpg",
+    "status": "written"
   },
   {
     "id": "5ad98fceda4654cc",
@@ -108,10 +108,10 @@
     "status": "exists-correct"
   },
   {
-    "id": "9d76b054ee3e5b61",
-    "src": "https://media.vrbo.com/lodging/106000000/105280000/105273500/105273452/1863e9ab.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/9d76b054ee3e5b61.jpg",
-    "status": "exists-correct"
+    "id": "852bdfbdfbb243ed",
+    "src": "https://media.vrbo.com/lodging/106000000/105280000/105273500/105273452/e98dba7e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/852bdfbdfbb243ed.jpg",
+    "status": "written"
   },
   {
     "id": "73bbb5660e6e01c0",
@@ -126,28 +126,22 @@
     "status": "exists-correct"
   },
   {
-    "id": "c305005c0023093e",
-    "src": "https://media.vrbo.com/lodging/110000000/109700000/109695300/109695227/dc70b58c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/c305005c0023093e.jpg",
-    "status": "exists-correct"
+    "id": "4d7443108e4f4516",
+    "src": "https://media.vrbo.com/lodging/110000000/109700000/109695300/109695227/e6ef4eee.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/4d7443108e4f4516.jpg",
+    "status": "written"
   },
   {
-    "id": "c9fb4f6301e6cd0e",
-    "src": "https://media.vrbo.com/lodging/93000000/92910000/92902800/92902708/7124b3ed.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/c9fb4f6301e6cd0e.jpg",
-    "status": "exists-correct"
+    "id": "a11f63cf79ac7430",
+    "src": "https://media.vrbo.com/lodging/34000000/33550000/33548200/33548192/c610e41f.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/a11f63cf79ac7430.jpg",
+    "status": "written"
   },
   {
-    "id": "550f0a9fbf939b3d",
-    "src": "https://media.vrbo.com/lodging/34000000/33550000/33548200/33548192/f4245ec0.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/550f0a9fbf939b3d.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "8df0878775000246",
-    "src": "https://media.vrbo.com/lodging/110000000/109060000/109053100/109053008/3d29306f.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/8df0878775000246.jpg",
-    "status": "exists-correct"
+    "id": "77e16cfb40db491c",
+    "src": "https://media.vrbo.com/lodging/110000000/109060000/109053100/109053008/e15d6545.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/77e16cfb40db491c.jpg",
+    "status": "written"
   },
   {
     "id": "bd41711c8922cd20",
@@ -192,12 +186,6 @@
     "status": "exists-correct"
   },
   {
-    "id": "529d15cea67a3901",
-    "src": "https://media.vrbo.com/lodging/103000000/102940000/102933800/102933707/024473d2.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/529d15cea67a3901.jpg",
-    "status": "exists-correct"
-  },
-  {
     "id": "b345472b50ab52a1",
     "src": "https://media.vrbo.com/lodging/107000000/106400000/106392000/106391935/7b0ff55c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/b345472b50ab52a1.jpg",
@@ -216,16 +204,10 @@
     "status": "exists-correct"
   },
   {
-    "id": "b2f76305d68c1451",
-    "src": "https://media.vrbo.com/lodging/109000000/108560000/108555000/108554950/ecce3941.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/b2f76305d68c1451.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "855b05fd0547a70b",
-    "src": "https://media.vrbo.com/lodging/84000000/83420000/83412300/83412262/028db276.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/855b05fd0547a70b.jpg",
-    "status": "exists-correct"
+    "id": "b26bac760b15d5f9",
+    "src": "https://media.vrbo.com/lodging/109000000/108560000/108555000/108554950/d03ec9fc.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/b26bac760b15d5f9.jpg",
+    "status": "written"
   },
   {
     "id": "962f58571228eff4",
@@ -252,28 +234,22 @@
     "status": "exists-correct"
   },
   {
-    "id": "eee98cd24a7f318b",
-    "src": "https://media.vrbo.com/lodging/111000000/110720000/110718400/110718393/7d17ddca.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/eee98cd24a7f318b.jpg",
-    "status": "exists-correct"
+    "id": "d1ccea7d29ff985e",
+    "src": "https://media.vrbo.com/lodging/95000000/94790000/94781400/94781382/w2139h1157x6y0-7e443c8d.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/d1ccea7d29ff985e.jpg",
+    "status": "written"
   },
   {
-    "id": "e6a352293c096092",
-    "src": "https://media.vrbo.com/lodging/95000000/94790000/94781400/94781382/8e824cc6_edited_1c8f.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/e6a352293c096092.jpg",
-    "status": "exists-correct"
+    "id": "8d233d82251baf00",
+    "src": "https://media.vrbo.com/lodging/84000000/83690000/83685400/83685338/9eceeb55.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/8d233d82251baf00.jpg",
+    "status": "written"
   },
   {
-    "id": "701250911a5f5b4d",
-    "src": "https://media.vrbo.com/lodging/84000000/83690000/83685400/83685338/8687534f.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/701250911a5f5b4d.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "6417c443958747e5",
-    "src": "https://media.vrbo.com/lodging/27000000/26790000/26782500/26782470/7f9357b5.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/6417c443958747e5.jpg",
-    "status": "exists-correct"
+    "id": "452847c2203ef37e",
+    "src": "https://media.vrbo.com/lodging/27000000/26790000/26782500/26782470/6f88762f.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/452847c2203ef37e.jpg",
+    "status": "written"
   },
   {
     "id": "db96ce92cb312978",
@@ -285,12 +261,6 @@
     "id": "3de15baa83e1e9b8",
     "src": "https://media.vrbo.com/lodging/78000000/77960000/77959000/77958996/1fb7db2d.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/3de15baa83e1e9b8.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "8d0648f702e3208a",
-    "src": "https://media.vrbo.com/lodging/115000000/114950000/114944000/114943989/36dff8ea.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/8d0648f702e3208a.jpg",
     "status": "exists-correct"
   },
   {
@@ -306,21 +276,15 @@
     "status": "exists-correct"
   },
   {
-    "id": "1266fe12fc943143",
-    "src": "https://media.vrbo.com/lodging/90000000/89850000/89849000/89848910/58fa4507.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/1266fe12fc943143.jpg",
-    "status": "exists-correct"
+    "id": "850bdcdc93f9b328",
+    "src": "https://media.vrbo.com/lodging/90000000/89850000/89849000/89848910/0e1551cb.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/850bdcdc93f9b328.jpg",
+    "status": "written"
   },
   {
     "id": "ada820d1d84eb856",
     "src": "https://media.vrbo.com/lodging/88000000/87350000/87344900/87344893/71b5706a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/ada820d1d84eb856.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "524bf3371bde11df",
-    "src": "https://media.vrbo.com/lodging/97000000/96370000/96361600/96361579/a5adec93.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/524bf3371bde11df.jpg",
     "status": "exists-correct"
   },
   {
@@ -330,45 +294,21 @@
     "status": "exists-correct"
   },
   {
-    "id": "61d37afd6b34f736",
-    "src": "https://media.vrbo.com/lodging/110000000/109830000/109822100/109822069/w1204h823x3y4-a71bdfbc.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/61d37afd6b34f736.jpg",
-    "status": "exists-correct"
+    "id": "9678c285dcf69d9f",
+    "src": "https://media.vrbo.com/lodging/89000000/88460000/88454900/88454833/44c77dde.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/9678c285dcf69d9f.jpg",
+    "status": "written"
   },
   {
-    "id": "85173474e775ee6e",
-    "src": "https://media.vrbo.com/lodging/108000000/107330000/107324500/107324454/w1200h799x0y1-fe4793c8.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/85173474e775ee6e.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "d93ef34f1ff80252",
-    "src": "https://media.vrbo.com/lodging/89000000/88460000/88454900/88454833/c2902088.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/d93ef34f1ff80252.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "ff24f9abb86732f1",
-    "src": "https://media.vrbo.com/lodging/21000000/20260000/20254400/20254302/00192a8a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/ff24f9abb86732f1.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "3bfad1401168117b",
-    "src": "https://media.vrbo.com/lodging/111000000/110190000/110181500/110181409/2d21d278.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/3bfad1401168117b.jpg",
-    "status": "exists-correct"
+    "id": "daf5dbad859872a2",
+    "src": "https://media.vrbo.com/lodging/21000000/20260000/20254400/20254302/8b8aa2b0.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/daf5dbad859872a2.jpg",
+    "status": "written"
   },
   {
     "id": "860a2bc393d5127e",
     "src": "https://media.vrbo.com/lodging/115000000/114280000/114275400/114275345/9570aa66.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/860a2bc393d5127e.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "80e4046eaf018092",
-    "src": "https://media.vrbo.com/lodging/115000000/114950000/114940200/114940174/65059734.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/80e4046eaf018092.jpg",
     "status": "exists-correct"
   },
   {
@@ -414,10 +354,10 @@
     "status": "exists-correct"
   },
   {
-    "id": "12f0045f7446ae99",
-    "src": "https://media.vrbo.com/lodging/72000000/71600000/71592500/71592412/122bb0be.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/12f0045f7446ae99.jpg",
-    "status": "exists-correct"
+    "id": "a28bf61d1f013a58",
+    "src": "https://media.vrbo.com/lodging/72000000/71600000/71592500/71592412/9fce0b5e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/a28bf61d1f013a58.jpg",
+    "status": "written"
   },
   {
     "id": "deb4ce5e9870baea",
@@ -432,129 +372,21 @@
     "status": "exists-correct"
   },
   {
-    "id": "0799c574280143be",
-    "src": "https://media.vrbo.com/lodging/68000000/67410000/67407400/67407344/1dd4f440.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/0799c574280143be.jpg",
-    "status": "exists-correct"
+    "id": "530d6f0bbb1b3adb",
+    "src": "https://media.vrbo.com/lodging/78000000/78000000/77990800/77990773/2dee72a9.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/530d6f0bbb1b3adb.jpg",
+    "status": "written"
   },
   {
-    "id": "85b8f3a077978f68",
-    "src": "https://media.vrbo.com/lodging/34000000/33560000/33555400/33555305/098731e1.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/85b8f3a077978f68.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "bb7a64fbb26dc6f2",
-    "src": "https://media.vrbo.com/lodging/34000000/33550000/33545200/33545192/b6becd2a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/bb7a64fbb26dc6f2.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "fbe89c7d4e98c18a",
-    "src": "https://media.vrbo.com/lodging/120000000/119790000/119787700/119787651/a913aa6e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/fbe89c7d4e98c18a.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "ae5bbd0be0219d78",
-    "src": "https://media.vrbo.com/lodging/92000000/91780000/91778000/91777957/352ab05a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/ae5bbd0be0219d78.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "7b5dcf1944a0b103",
-    "src": "https://media.vrbo.com/lodging/78000000/78000000/77990800/77990773/61f3f431.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/7b5dcf1944a0b103.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "88a6804ecbd0b03c",
-    "src": "https://media.vrbo.com/lodging/35000000/34330000/34326500/34326458/1a932a76.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/88a6804ecbd0b03c.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "a385859a35b5e568",
-    "src": "https://media.vrbo.com/lodging/78000000/78000000/77990800/77990780/0217d740.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/a385859a35b5e568.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "4efd7a78dc8c5e2c",
-    "src": "https://media.vrbo.com/lodging/74000000/73780000/73771200/73771124/0dfbf619.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/4efd7a78dc8c5e2c.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "4ae9ccae223a4c95",
-    "src": "https://media.vrbo.com/lodging/101000000/100160000/100159900/100159890/d2dfa4f2.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/4ae9ccae223a4c95.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "df9cc776d24ae935",
-    "src": "https://media.vrbo.com/lodging/84000000/83160000/83158700/83158657/ea229d81.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/df9cc776d24ae935.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "7c3a3f0728385336",
-    "src": "https://media.vrbo.com/lodging/120000000/119490000/119484000/119483974/7c968040.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/7c3a3f0728385336.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "4f1adb0c6545f59b",
-    "src": "https://media.vrbo.com/lodging/75000000/74280000/74271600/74271590/e615e864.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/4f1adb0c6545f59b.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "1671352ec5ede2e8",
-    "src": "https://media.vrbo.com/lodging/102000000/101130000/101124900/101124875/4bec2ff7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/1671352ec5ede2e8.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "ee504167bdc0726a",
-    "src": "https://media.vrbo.com/lodging/28000000/27130000/27128400/27128372/027d8c29.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/ee504167bdc0726a.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "0a31b970c14f7c80",
-    "src": "https://media.vrbo.com/lodging/46000000/45160000/45151300/45151243/1dc27f7e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/0a31b970c14f7c80.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "47d401dfef8a9210",
-    "src": "https://media.vrbo.com/lodging/37000000/36770000/36762200/36762149/4c994050.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/47d401dfef8a9210.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "0fc6eb86ce9197be",
-    "src": "https://media.vrbo.com/lodging/108000000/107900000/107894700/107894657/2e8c3d84.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/0fc6eb86ce9197be.jpg",
-    "status": "exists-correct"
+    "id": "cb2bf38bb7dc4fa6",
+    "src": "https://media.vrbo.com/lodging/46000000/45160000/45151300/45151243/9241df39.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/cb2bf38bb7dc4fa6.jpg",
+    "status": "written"
   },
   {
     "id": "4ec880010ad009dd",
     "src": "https://media.vrbo.com/lodging/100000000/99700000/99694700/99694657/8c7ce7ae.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/4ec880010ad009dd.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "6652da2c00280ad8",
-    "src": "https://media.vrbo.com/lodging/97000000/96480000/96478200/96478162/9774d9ad.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/6652da2c00280ad8.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "9e3306d764a055e6",
-    "src": "https://media.vrbo.com/lodging/97000000/96870000/96868000/96867922/453039af.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/9e3306d764a055e6.jpg",
     "status": "exists-correct"
   },
   {
@@ -564,93 +396,9 @@
     "status": "exists-correct"
   },
   {
-    "id": "9dde0ed1965a41cf",
-    "src": "https://media.vrbo.com/lodging/118000000/117340000/117334400/117334340/9ecd0ace.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/9dde0ed1965a41cf.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "395dc442fad62064",
-    "src": "https://media.vrbo.com/lodging/97000000/96350000/96349700/96349610/94e5f4c6.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/395dc442fad62064.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "30db3fab47e6784c",
-    "src": "https://media.vrbo.com/lodging/106000000/105340000/105336900/105336859/e7b5c601.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/30db3fab47e6784c.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "e54b6d0453da8b32",
-    "src": "https://media.vrbo.com/lodging/109000000/108580000/108571400/108571394/5dcc43e5.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/e54b6d0453da8b32.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "80f5d37bb299aadb",
-    "src": "https://media.vrbo.com/lodging/106000000/105340000/105336900/105336861/3ed1eb32.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/80f5d37bb299aadb.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "62578a02b2240881",
-    "src": "https://media.vrbo.com/lodging/113000000/112550000/112542900/112542871/4237db4b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/62578a02b2240881.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "695c6e97666faee9",
-    "src": "https://media.vrbo.com/lodging/102000000/101540000/101537100/101537098/effa3973.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/695c6e97666faee9.jpg",
-    "status": "exists-correct"
-  },
-  {
     "id": "442406c7334e84d9",
     "src": "https://media.vrbo.com/lodging/91000000/90620000/90612700/90612683/237456f6.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/442406c7334e84d9.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "0c2a7246a1266a0e",
-    "src": "https://media.vrbo.com/lodging/34000000/33660000/33655100/33655048/w799h599x1y1-b078de4d.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/0c2a7246a1266a0e.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "3ae46bc40eaeedc7",
-    "src": "https://media.vrbo.com/lodging/104000000/103600000/103592300/103592238/6d1fa8c5.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/3ae46bc40eaeedc7.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "f1de54f07cac3656",
-    "src": "https://media.vrbo.com/lodging/65000000/64460000/64450800/64450799/1296499c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/f1de54f07cac3656.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "6106cc21b589473f",
-    "src": "https://media.vrbo.com/lodging/106000000/105470000/105461100/105461057/b20131a2.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/6106cc21b589473f.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "2ab61942305b3270",
-    "src": "https://media.vrbo.com/lodging/101000000/100030000/100029100/100029003/dfe623b9.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/2ab61942305b3270.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "88a6804ecbd0b03c",
-    "src": "https://media.vrbo.com/lodging/35000000/34330000/34326500/34326458/1a932a76.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/88a6804ecbd0b03c.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "3dbc2e2aeb0b736e",
-    "src": "https://media.vrbo.com/lodging/78000000/78000000/77990900/77990838/852dd64f.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/3dbc2e2aeb0b736e.jpg",
     "status": "exists-correct"
   },
   {
@@ -660,81 +408,21 @@
     "status": "exists-correct"
   },
   {
-    "id": "635ebcb28bd19080",
-    "src": "https://media.vrbo.com/lodging/101000000/100040000/100031000/100030978/7b66d073.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/635ebcb28bd19080.jpg",
-    "status": "exists-correct"
+    "id": "9284bbc6b8031fcc",
+    "src": "https://media.vrbo.com/lodging/65000000/64460000/64450800/64450799/26c8a38b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/9284bbc6b8031fcc.jpg",
+    "status": "written"
   },
   {
-    "id": "9ee1fcc8f65f3719",
-    "src": "https://media.vrbo.com/lodging/102000000/101430000/101424800/101424794/de51be64.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/9ee1fcc8f65f3719.jpg",
-    "status": "exists-correct"
+    "id": "f5d2edc01e5bda7e",
+    "src": "https://media.vrbo.com/lodging/102000000/101430000/101424800/101424794/97121c37.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/f5d2edc01e5bda7e.jpg",
+    "status": "written"
   },
   {
     "id": "f8bb4339d2b57c8a",
     "src": "https://media.vrbo.com/lodging/97000000/96690000/96686400/96686400/75b56015.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/f8bb4339d2b57c8a.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "031f0129539d26e6",
-    "src": "https://media.vrbo.com/lodging/102000000/101910000/101904000/101903969/6fb88e98.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/031f0129539d26e6.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "a40f7124b516c032",
-    "src": "https://media.vrbo.com/lodging/106000000/105960000/105958500/105958458/7d49a573.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/a40f7124b516c032.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "fdb3ba66b6ec1686",
-    "src": "https://media.vrbo.com/lodging/102000000/101080000/101077400/101077315/c8323632.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/fdb3ba66b6ec1686.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "c55ceae2a893ad26",
-    "src": "https://media.vrbo.com/lodging/19000000/18790000/18787100/18787014/dd681438.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/c55ceae2a893ad26.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "80f5d37bb299aadb",
-    "src": "https://media.vrbo.com/lodging/106000000/105340000/105336900/105336861/3ed1eb32.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/80f5d37bb299aadb.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "4ff3c2ad7f8c6141",
-    "src": "https://media.vrbo.com/lodging/78000000/78000000/77990800/77990769/eee9de79.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/4ff3c2ad7f8c6141.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "cf7394498fe11724",
-    "src": "https://media.vrbo.com/lodging/34000000/33500000/33490500/33490489/95add292.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/cf7394498fe11724.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "27404fe4d10b1fff",
-    "src": "https://media.vrbo.com/lodging/118000000/117370000/117363100/117363064/461de717.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/27404fe4d10b1fff.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "7d906bc778236ffd",
-    "src": "https://media.vrbo.com/lodging/103000000/102010000/102000900/102000833/8c6942a7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/7d906bc778236ffd.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "5915ff001a14b578",
-    "src": "https://media.vrbo.com/lodging/103000000/102350000/102343000/102342901/9852a9e0.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/5915ff001a14b578.jpg",
     "status": "exists-correct"
   },
   {
@@ -768,10 +456,10 @@
     "status": "exists-correct"
   },
   {
-    "id": "4d9d6fa8598b04fe",
-    "src": "https://media.vrbo.com/lodging/21000000/20920000/20912500/20912451/b40c6d8e.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/4d9d6fa8598b04fe.jpg",
-    "status": "exists-correct"
+    "id": "4ae1398c38ff8fa1",
+    "src": "https://media.vrbo.com/lodging/21000000/20920000/20912500/20912451/aced9ac7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/4ae1398c38ff8fa1.jpg",
+    "status": "written"
   },
   {
     "id": "6752efc98e2f0fd1",
@@ -780,21 +468,15 @@
     "status": "exists-correct"
   },
   {
-    "id": "ae9baf2058e20d73",
-    "src": "https://media.vrbo.com/lodging/111000000/110810000/110809700/110809685/0ddcac71.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/ae9baf2058e20d73.jpg",
-    "status": "exists-correct"
+    "id": "d93aadd290b42735",
+    "src": "https://media.vrbo.com/lodging/111000000/110810000/110809700/110809685/c4871adc.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/d93aadd290b42735.jpg",
+    "status": "written"
   },
   {
     "id": "e39f63a952e43ef3",
     "src": "https://media.vrbo.com/lodging/107000000/106530000/106523800/106523773/7906f273.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/e39f63a952e43ef3.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "41e29ac24268fca4",
-    "src": "https://media.vrbo.com/lodging/67000000/66300000/66299200/66299137/dc5f5c1a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/41e29ac24268fca4.jpg",
     "status": "exists-correct"
   },
   {
@@ -822,51 +504,21 @@
     "status": "exists-correct"
   },
   {
-    "id": "c9bb80c086e3ca36",
-    "src": "https://media.vrbo.com/lodging/60000000/59650000/59646300/59646238/ed758c02.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/c9bb80c086e3ca36.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "19864de55008d796",
-    "src": "https://media.vrbo.com/lodging/90000000/89140000/89130600/89130536/83129f43.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/19864de55008d796.jpg",
-    "status": "exists-correct"
-  },
-  {
     "id": "0fb2fb0ada612684",
     "src": "https://media.vrbo.com/lodging/92000000/91410000/91400800/91400727/9f942a21.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/0fb2fb0ada612684.jpg",
     "status": "exists-correct"
   },
   {
-    "id": "c2f4da06456d145a",
-    "src": "https://media.vrbo.com/lodging/106000000/105100000/105096400/105096381/4809d8b6.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/c2f4da06456d145a.jpg",
-    "status": "exists-correct"
+    "id": "695465ccdc8f959d",
+    "src": "https://media.vrbo.com/lodging/106000000/105100000/105096400/105096381/2095c821.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/695465ccdc8f959d.jpg",
+    "status": "written"
   },
   {
     "id": "5bbe5a0490f6e506",
     "src": "https://media.vrbo.com/lodging/19000000/18860000/18856700/18856677/a39a82b5.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/5bbe5a0490f6e506.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "1c5eea9e26915000",
-    "src": "https://media.vrbo.com/lodging/80000000/79670000/79668700/79668700/054430e4.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/1c5eea9e26915000.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "9e35751a3d192983",
-    "src": "https://media.vrbo.com/lodging/32000000/31760000/31759200/31759191/2d4461e4.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/9e35751a3d192983.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "4d43de56b3af1f9c",
-    "src": "https://media.vrbo.com/lodging/102000000/101920000/101916100/101916018/f55e4b08.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/4d43de56b3af1f9c.jpg",
     "status": "exists-correct"
   },
   {
@@ -876,10 +528,10 @@
     "status": "exists-correct"
   },
   {
-    "id": "928cf38bb0e8678c",
-    "src": "https://media.vrbo.com/lodging/109000000/108570000/108564000/108563934/14c2b642.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/928cf38bb0e8678c.jpg",
-    "status": "exists-correct"
+    "id": "f65d36347835d918",
+    "src": "https://media.vrbo.com/lodging/109000000/108570000/108564000/108563934/3c71ba51.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/f65d36347835d918.jpg",
+    "status": "written"
   },
   {
     "id": "c8f48221bf71754d",
@@ -888,16 +540,16 @@
     "status": "exists-correct"
   },
   {
-    "id": "76e954ae0584955e",
-    "src": "https://media.vrbo.com/lodging/117000000/116570000/116565900/116565814/9e537510.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/76e954ae0584955e.jpg",
-    "status": "exists-correct"
+    "id": "708075e5dd8d5853",
+    "src": "https://media.vrbo.com/lodging/117000000/116570000/116565900/116565814/e8eddea7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/708075e5dd8d5853.jpg",
+    "status": "written"
   },
   {
-    "id": "8cbf001253c1a6cb",
-    "src": "https://media.vrbo.com/lodging/107000000/106860000/106855500/106855414/120377ca.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/8cbf001253c1a6cb.jpg",
-    "status": "exists-correct"
+    "id": "6239d0ca58737a17",
+    "src": "https://media.vrbo.com/lodging/107000000/106860000/106855500/106855414/af66c9fb.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/6239d0ca58737a17.jpg",
+    "status": "written"
   },
   {
     "id": "87f5ab3568edfe5e",
@@ -906,33 +558,21 @@
     "status": "exists-correct"
   },
   {
-    "id": "b583d983c09d433a",
-    "src": "https://media.vrbo.com/lodging/117000000/116230000/116224300/116224260/1778880d.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/b583d983c09d433a.jpg",
-    "status": "exists-correct"
+    "id": "eb01391dbf5c7478",
+    "src": "https://media.vrbo.com/lodging/118000000/117780000/117777300/117777290/cc70bf37.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/eb01391dbf5c7478.jpg",
+    "status": "written"
   },
   {
-    "id": "8df346e7aa83a4c8",
-    "src": "https://media.vrbo.com/lodging/118000000/117780000/117777300/117777290/2efe2572.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/8df346e7aa83a4c8.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "b21bd388ef414b4e",
-    "src": "https://media.vrbo.com/lodging/117000000/116570000/116565900/116565806/544a0ad2.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/b21bd388ef414b4e.jpg",
-    "status": "exists-correct"
+    "id": "88c7a7c0bdbd7272",
+    "src": "https://media.vrbo.com/lodging/117000000/116570000/116565900/116565806/edba3008.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/88c7a7c0bdbd7272.jpg",
+    "status": "written"
   },
   {
     "id": "cf7e1034bf11edc6",
     "src": "https://media.vrbo.com/lodging/84000000/83640000/83630800/83630788/c1121873.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/cf7e1034bf11edc6.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "cdddecaa0a0c6017",
-    "src": "https://media.vrbo.com/lodging/118000000/117850000/117840700/117840635/f5bc210c.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/cdddecaa0a0c6017.jpg",
     "status": "exists-correct"
   },
   {
@@ -942,177 +582,315 @@
     "status": "exists-correct"
   },
   {
-    "id": "d82e0034f828fb0b",
-    "src": "https://media.vrbo.com/lodging/106000000/105860000/105854700/105854602/d7199d18.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/d82e0034f828fb0b.jpg",
-    "status": "exists-correct"
-  },
-  {
-    "id": "2ae549a9324184e5",
-    "src": "https://media.vrbo.com/lodging/118000000/117850000/117840700/117840633/c72427a1.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/2ae549a9324184e5.jpg",
-    "status": "exists-correct"
-  },
-  {
     "id": "2a19e57b22c5591f",
     "src": "https://media.vrbo.com/lodging/93000000/92030000/92020400/92020380/7fc3c299.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/2a19e57b22c5591f.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "2b13b9bff9a056bb",
     "src": "https://media.vrbo.com/lodging/34000000/33500000/33497400/33497367/8ee4733b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/2b13b9bff9a056bb.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "25733942bcb2f3a3",
     "src": "https://media.vrbo.com/lodging/35000000/34190000/34189100/34189049/41d9e6cd.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/25733942bcb2f3a3.jpg",
-    "status": "written"
-  },
-  {
-    "id": "0f540d2f15b4054c",
-    "src": "https://media.vrbo.com/lodging/34000000/33950000/33949000/33948923/5fc32ac3.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/0f540d2f15b4054c.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "0f26aad5febb7a08",
     "src": "https://media.vrbo.com/lodging/97000000/96150000/96148000/96147958/1a68a698.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/0f26aad5febb7a08.jpg",
-    "status": "written"
-  },
-  {
-    "id": "758a3760f8d05712",
-    "src": "https://media.vrbo.com/lodging/28000000/27140000/27131000/27130984/34348540.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/758a3760f8d05712.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "f449b14e75d24fe3",
     "src": "https://media.vrbo.com/lodging/35000000/34200000/34190600/34190567/21595385.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/f449b14e75d24fe3.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "bc7b1220a75e0c65",
     "src": "https://media.vrbo.com/lodging/118000000/117640000/117630700/117630621/eedf9a6e_edited_a8bb.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/bc7b1220a75e0c65.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "a2b1a4356038c36d",
     "src": "https://media.vrbo.com/lodging/86000000/85540000/85534900/85534847/bca84862.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/a2b1a4356038c36d.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "177b0e3544aa16f5",
     "src": "https://media.vrbo.com/lodging/104000000/103750000/103742400/103742378/3ae98fa4.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/177b0e3544aa16f5.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "4782c37e48a620bc",
     "src": "https://media.vrbo.com/lodging/77000000/76180000/76177000/76176935/1743b651.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/4782c37e48a620bc.jpg",
-    "status": "written"
-  },
-  {
-    "id": "10187f6b80501678",
-    "src": "https://media.vrbo.com/lodging/86000000/85040000/85040000/85039921/557d6d7b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/10187f6b80501678.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "4d718b6b74ebb7c5",
     "src": "https://media.vrbo.com/lodging/79000000/78540000/78536300/78536213/467d46c5.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/4d718b6b74ebb7c5.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "6ddba3b1da5a8e29",
     "src": "https://media.vrbo.com/lodging/34000000/33940000/33934300/33934298/4fa1cfef.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/6ddba3b1da5a8e29.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "ccc53df48d4dd53f",
     "src": "https://media.vrbo.com/lodging/27000000/26850000/26844900/26844836/3a6e30f0.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/ccc53df48d4dd53f.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "da547aadb7ecd539",
     "src": "https://media.vrbo.com/lodging/111000000/110700000/110697900/110697889/23e6769f.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/da547aadb7ecd539.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
-    "id": "070aaa10eccf6e3d",
-    "src": "https://media.vrbo.com/lodging/34000000/33500000/33493100/33493036/b194de6a.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/070aaa10eccf6e3d.jpg",
+    "id": "aa7b0dbe3717cc5a",
+    "src": "https://media.vrbo.com/lodging/34000000/33500000/33493100/33493036/c7bb1d90.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/aa7b0dbe3717cc5a.jpg",
     "status": "written"
   },
   {
     "id": "5bd4da978c0377e8",
     "src": "https://media.vrbo.com/lodging/27000000/26650000/26648200/26648120/76247161.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/5bd4da978c0377e8.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "1fe5509fea9d3713",
     "src": "https://media.vrbo.com/lodging/20000000/19410000/19407700/19407642/470ae6c4.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/1fe5509fea9d3713.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
-    "id": "ba61e833269aa272",
-    "src": "https://media.vrbo.com/lodging/117000000/116230000/116226000/116225981/b6973fa5.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/ba61e833269aa272.jpg",
-    "status": "written"
-  },
-  {
-    "id": "d2dd7bb327e5a651",
-    "src": "https://media.vrbo.com/lodging/103000000/102690000/102687900/102687811/3ae674cb.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/d2dd7bb327e5a651.jpg",
+    "id": "55cc7e469e98e4ee",
+    "src": "https://media.vrbo.com/lodging/117000000/116230000/116226000/116225981/756d2787.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/55cc7e469e98e4ee.jpg",
     "status": "written"
   },
   {
     "id": "174d05a9dc47256d",
     "src": "https://media.vrbo.com/lodging/119000000/118100000/118094400/118094315/7526b834.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/174d05a9dc47256d.jpg",
-    "status": "written"
-  },
-  {
-    "id": "42bd4eb4acf82214",
-    "src": "https://media.vrbo.com/lodging/106000000/105760000/105752900/105752848/69e908e9.jpg?impolicy=resizecrop&rw=1200&ra=fit",
-    "file": "images/vrbo/42bd4eb4acf82214.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "60db04924e269c52",
     "src": "https://media.vrbo.com/lodging/77000000/76160000/76154800/76154722/5d15b258.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/60db04924e269c52.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "12b2c8e38e66172b",
     "src": "https://media.vrbo.com/lodging/106000000/105120000/105118400/105118388/bdf912c5.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/12b2c8e38e66172b.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "71262dabb8cf68c3",
     "src": "https://media.vrbo.com/lodging/116000000/115720000/115711900/115711810/9035e644.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/71262dabb8cf68c3.jpg",
-    "status": "written"
+    "status": "exists-correct"
   },
   {
     "id": "d501b864329f165f",
     "src": "https://media.vrbo.com/lodging/43000000/42710000/42709200/42709171/bb500281.jpg?impolicy=resizecrop&rw=1200&ra=fit",
     "file": "images/vrbo/d501b864329f165f.jpg",
+    "status": "exists-correct"
+  },
+  {
+    "id": "017e0cb9ced37a44",
+    "src": "https://media.vrbo.com/lodging/88000000/87420000/87416700/87416683/23036ab8.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/017e0cb9ced37a44.jpg",
+    "status": "written"
+  },
+  {
+    "id": "4dc9378c13912514",
+    "src": "https://media.vrbo.com/lodging/89000000/88350000/88349700/88349675/00f83a12.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/4dc9378c13912514.jpg",
+    "status": "written"
+  },
+  {
+    "id": "1fc2e4e0df1079d1",
+    "src": "https://media.vrbo.com/lodging/34000000/33510000/33506300/33506218/2c03b5be.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/1fc2e4e0df1079d1.jpg",
+    "status": "written"
+  },
+  {
+    "id": "e359feb910d843fc",
+    "src": "https://media.vrbo.com/lodging/108000000/107910000/107903800/107903712/b73753ea.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/e359feb910d843fc.jpg",
+    "status": "written"
+  },
+  {
+    "id": "5bd4da978c0377e8",
+    "src": "https://media.vrbo.com/lodging/27000000/26650000/26648200/26648120/76247161.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/5bd4da978c0377e8.jpg",
+    "status": "exists-correct"
+  },
+  {
+    "id": "4771cb5fbd031f67",
+    "src": "https://media.vrbo.com/lodging/110000000/109420000/109413100/109413014/w1024h691x0y46-bdf2b3cc.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/4771cb5fbd031f67.jpg",
+    "status": "written"
+  },
+  {
+    "id": "d728c20d52d9fceb",
+    "src": "https://media.vrbo.com/lodging/69000000/68050000/68047700/68047612/96a5e2a7.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/d728c20d52d9fceb.jpg",
+    "status": "written"
+  },
+  {
+    "id": "e4c03b02feec45fb",
+    "src": "https://media.vrbo.com/lodging/65000000/64660000/64653500/64653483/a084c498.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/e4c03b02feec45fb.jpg",
+    "status": "written"
+  },
+  {
+    "id": "cc186bb8813ccf26",
+    "src": "https://media.vrbo.com/lodging/113000000/112630000/112621300/112621294/3ba494da.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/cc186bb8813ccf26.jpg",
+    "status": "written"
+  },
+  {
+    "id": "535baa3cb482d2f6",
+    "src": "https://media.vrbo.com/lodging/116000000/115910000/115902700/115902680/w1024h767x0y1-add1d29b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/535baa3cb482d2f6.jpg",
+    "status": "written"
+  },
+  {
+    "id": "a7d5bf76a789f5b0",
+    "src": "https://media.vrbo.com/lodging/96000000/95830000/95821600/95821599/f75ea993.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/a7d5bf76a789f5b0.jpg",
+    "status": "written"
+  },
+  {
+    "id": "ee65e38b1800b5bc",
+    "src": "https://media.vrbo.com/lodging/82000000/81590000/81583300/81583248/f7a2a14b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/ee65e38b1800b5bc.jpg",
+    "status": "written"
+  },
+  {
+    "id": "3ef029b46d5b26a4",
+    "src": "https://media.vrbo.com/lodging/112000000/111680000/111677300/111677295/62ac9a80.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/3ef029b46d5b26a4.jpg",
+    "status": "written"
+  },
+  {
+    "id": "ab0f3f70520b4e3e",
+    "src": "https://media.vrbo.com/lodging/96000000/95720000/95710400/95710365/4e13fdcf.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/ab0f3f70520b4e3e.jpg",
+    "status": "written"
+  },
+  {
+    "id": "837cf94b556e8bef",
+    "src": "https://media.vrbo.com/lodging/117000000/116440000/116435400/116435357/04262af1.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/837cf94b556e8bef.jpg",
+    "status": "written"
+  },
+  {
+    "id": "116522f6e6fc905d",
+    "src": "https://media.vrbo.com/lodging/107000000/106460000/106457800/106457710/d1a853e9.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/116522f6e6fc905d.jpg",
+    "status": "written"
+  },
+  {
+    "id": "9253f4b5be6c2388",
+    "src": "https://media.vrbo.com/lodging/102000000/101300000/101299800/101299797/w901h683x62y0-11e8b0ea.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/9253f4b5be6c2388.jpg",
+    "status": "written"
+  },
+  {
+    "id": "1b3189877dd9552f",
+    "src": "https://media.vrbo.com/lodging/120000000/119300000/119291500/119291412/297f11d1.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/1b3189877dd9552f.jpg",
+    "status": "written"
+  },
+  {
+    "id": "778f3e63c8475a6e",
+    "src": "https://media.vrbo.com/lodging/115000000/114970000/114969000/114968997/7f8a3f30.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/778f3e63c8475a6e.jpg",
+    "status": "written"
+  },
+  {
+    "id": "12c78739524ac41d",
+    "src": "https://media.vrbo.com/lodging/73000000/72510000/72507500/72507418/86840152.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/12c78739524ac41d.jpg",
+    "status": "written"
+  },
+  {
+    "id": "596875352053cba4",
+    "src": "https://media.vrbo.com/lodging/114000000/113610000/113609900/113609878/615dd13b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/596875352053cba4.jpg",
+    "status": "written"
+  },
+  {
+    "id": "e5683ece69ce5a3e",
+    "src": "https://media.vrbo.com/lodging/97000000/96110000/96109200/96109136/0bc7b636.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/e5683ece69ce5a3e.jpg",
+    "status": "written"
+  },
+  {
+    "id": "d6efb34917c7cc1d",
+    "src": "https://media.vrbo.com/lodging/95000000/94700000/94690900/94690828/abc5e98f.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/d6efb34917c7cc1d.jpg",
+    "status": "written"
+  },
+  {
+    "id": "d8f7a93dbabe4373",
+    "src": "https://media.vrbo.com/lodging/118000000/117220000/117213600/117213566/6cc017ef.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/d8f7a93dbabe4373.jpg",
+    "status": "written"
+  },
+  {
+    "id": "75619213d1672fbe",
+    "src": "https://media.vrbo.com/lodging/112000000/111570000/111561300/111561291/9745af5d.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/75619213d1672fbe.jpg",
+    "status": "written"
+  },
+  {
+    "id": "6901f1ec40164794",
+    "src": "https://media.vrbo.com/lodging/46000000/45840000/45831100/45831073/a717ffee.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/6901f1ec40164794.jpg",
+    "status": "written"
+  },
+  {
+    "id": "4cce89839c719568",
+    "src": "https://media.vrbo.com/lodging/119000000/118280000/118274500/118274415/674fc568.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/4cce89839c719568.jpg",
+    "status": "written"
+  },
+  {
+    "id": "6571b96058e1e024",
+    "src": "https://media.vrbo.com/lodging/35000000/34340000/34336600/34336511/w2491h1664x0y0-1c612170.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/6571b96058e1e024.jpg",
+    "status": "written"
+  },
+  {
+    "id": "02eb66c0e8ff740a",
+    "src": "https://media.vrbo.com/lodging/108000000/107140000/107131700/107131625/794d8268.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/02eb66c0e8ff740a.jpg",
+    "status": "written"
+  },
+  {
+    "id": "6f46ed14aa12b6c0",
+    "src": "https://media.vrbo.com/lodging/35000000/34210000/34200700/34200659/d6cf7939.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+    "file": "images/vrbo/6f46ed14aa12b6c0.jpg",
     "status": "written"
   }
 ]
